@@ -1,1 +1,1 @@
-export { CountScreen } from "./screens/CountScreen/CountScreen";    
+export { CountScreen } from "./screens/CountScreen";

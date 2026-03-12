@@ -1,5 +1,5 @@
 import { StyleSheet } from "react-native";
-import { colors, space } from "../../../Themes";
+import { colors, space } from "../../Themes";
 
 export const stylesCountScreen = StyleSheet.create({
   labelText: {
